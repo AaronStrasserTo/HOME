@@ -1,2 +1,2 @@
 # HOME
-https://aaronstrasserto.github.io/SYTB/
+(https://aaronstrasserto.github.io/SYTB/)
