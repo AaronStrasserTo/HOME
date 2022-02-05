@@ -1,2 +1,2 @@
 # HOME
-<SYTB.md>
+https://aaronstrasserto.github.io/SYTB/
